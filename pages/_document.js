@@ -15,6 +15,7 @@ html, body, #__next {
   display: flex;
   flex-direction: column;
   height: 100%;
+  overflow-y: auto;
 }
 html {
   scroll-behavior: smooth;
